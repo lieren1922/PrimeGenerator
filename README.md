@@ -7,4 +7,4 @@
 - 🎨 Elegant Interface: A clean and intuitive graphical user interface (GUI) built with Tauri and web technologies.
 - 📦 Cross-Platform: Compilable for Windows, macOS, and Linux systems.
 
-<img src="./App界面.png" style="zoom:50%;" />
+<img src="./App界面.png" style="zoom:20%;" />
